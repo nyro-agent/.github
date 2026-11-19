@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Nyro: every chain in, one USDC payout out" width="100%">
+  <img src="https://raw.githubusercontent.com/nyro-agent/.github/main/profile/banner.jpg" alt="Nyro: every chain in, one USDC payout out" width="100%">
 </p>
 
 <h3 align="center">Mine on every chain. Collect it all in one place.</h3>
